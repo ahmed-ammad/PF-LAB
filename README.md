@@ -6,3 +6,5 @@
 3.Cooking\
 4.Singing
 ## SKILLS
+-Web Development
+-Graphic Designing
